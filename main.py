@@ -46,7 +46,7 @@ def main():
     user = User()
     user.surname = 'London'
     user.name = 'Jack'
-    user.age = 19
+    user.age = 20
     user.position = 'worker'
     user.speciality = 'builder'
     user.address = 'module_2'
